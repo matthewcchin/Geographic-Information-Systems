@@ -1,0 +1,4 @@
+Has_error, Identifier, Message, Base_value, Test_value, ObjectID
+"true", "Table", "Table row counts are different", "20681", "26767", -1
+"false", "FeatureClass", "Shape types are the same", " ", " ", -1
+"false", "FeatureClass", "Feature types are the same", " ", " ", -1
